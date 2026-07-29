@@ -1,0 +1,1 @@
+[{"uid":"a5f1719475ec0e39","name":"Login exitoso","time":{"start":1785304932576,"stop":1785304937323,"duration":4747},"status":"passed","severity":"normal"},{"uid":"3ca468fad4cc2d58","name":"Cierre sesion exitoso","time":{"start":1785304917709,"stop":1785304929211,"duration":11502},"status":"failed","severity":"normal"}]
