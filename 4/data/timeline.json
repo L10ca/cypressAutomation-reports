@@ -1,1 +1,0 @@
-{"children":[{"name":"Login exitoso","uid":"d18a3616fdbc7ab0","status":"passed","time":{"start":1785298418871,"stop":1785298424086,"duration":5215}},{"name":"Cierre sesion exitoso","uid":"6022b04b048f6df8","status":"failed","time":{"start":1785298402687,"stop":1785298415090,"duration":12403}}],"name":"timeline","uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc"}
